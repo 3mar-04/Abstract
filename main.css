@@ -115,6 +115,16 @@ main .top .box {
     width: 80%;
     margin: auto;
   }
+
+  .down .par {
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+    max-height: 200px;
+    margin-right: 5px;
+  }
+
   .par img {
     width: 30%;
     height: auto;
